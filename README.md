@@ -1,5 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsFlory&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsFlory&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsFlory&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsFlory&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItsFlory&theme=github_dark&utcOffset=8)
+<img width="540" height="360" alt="image" src="animesher.com_charlotte-gif-nao-tomori-1682696.gif" />
